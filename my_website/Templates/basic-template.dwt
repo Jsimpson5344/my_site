@@ -1,0 +1,40 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Contact</title>
+<!-- TemplateEndEditable -->
+<link href="../assets/styles.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="https://use.typekit.net/tzy5miu.css">
+<!-- TemplateBeginEditable name="head" -->
+	<style type="text/css">
+	</style>
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+	<div id="container">
+  <header></header>
+  <nav>
+	<ul>
+		<li><a href="about.html">About</a></li>
+		<li><a href="hobbies.html">Hobbies</a></li> 
+		<li><a href="gallery.html">Gallery</a></li> 
+		<li><a href="comments.html">Comment</a></li>	
+	</ul>
+	</nav>
+
+  <!--Begin Floated Elements-->
+  <aside>
+    <h3>Hello real world! I am known as Nikoru (ニコール) in the virtual world of the internet. I am a creator of digital art, music, and writing. I post media every week on different platforms, spreading out my work. Here you will find out what I do, how and why I do this.</h3>
+  </aside>
+  <!-- TemplateBeginEditable name="main-content" -->
+  <main>
+    <h2>Page Title</h2>
+  </main>
+  <!-- TemplateEndEditable -->  <!--End Floated Elements-->
+  <footer>ニコール</footer>
+</div>
+</body>
+</html>
